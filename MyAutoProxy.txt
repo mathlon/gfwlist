@@ -74,6 +74,7 @@
 ||bangbros.com
 ||bp4x.com
 ||bbc.com
+||bbc.co.uk
 ||bearteach.com
 ||big-cup.tv
 ||biguz.net
@@ -216,8 +217,9 @@
 ||google.com
 ||google-analytics.com
 ||googleadservices.com
+||googleapis.com
 ||googlesyndication.com
-||googletagmanager.comcom
+||googletagmanager.com
 ||googletagservices.com
 ||googleusercontent.com
 ||googlevideo.com
@@ -287,6 +289,7 @@
 ||javmovie.com
 ||javpop.biz
 ||javpop.com
+||javporn.cc
 ||javrom.com
 ||javseeds.com
 ||javsin.com
@@ -381,6 +384,7 @@
 ||plum-web.com
 ||popin.cc
 ||popjav.tv
+||pornhub.com
 ||pornomovies.com
 ||privatter.net
 ||pron.tv
@@ -533,6 +537,7 @@
 @@2265.com
 @@33lc.com
 @@36kr.com
+@@500px.com
 @@52pk.com
 @@5577.com
 @@9xbuddy.org
@@ -623,7 +628,7 @@
 @@jianshu.io
 @@jianshu.com
 @@jquery.com
-@@cdn.jsdelivr.net
+@@jsdelivr.net
 @@kabc688.com
 @@keleyi.com
 @@knowsbuy.com
