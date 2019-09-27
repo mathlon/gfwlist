@@ -410,6 +410,7 @@
 ||psiphon.ca
 ||ptt.cc
 ||puffinbrowser.com
+||punyu.com
 ||puserving.com
 ||pxaa.com
 ||q8kk.com
