@@ -374,6 +374,7 @@
 ||ntdimg.com
 ||ntdtv.com
 ||nytimes.com
+||octopuspop.com
 ||okfun.org
 ||oisinbosoft.com
 ||oladblock.xyz
