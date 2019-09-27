@@ -370,6 +370,7 @@
 ||nicovideo.jp
 ||node-modules.com
 ||ntd.tv
+||ntdimg.com
 ||ntdtv.com
 ||nytimes.com
 ||okfun.org
@@ -537,6 +538,7 @@
 ||yolasite.com
 ||yomiuri.co.jp
 ||yorkbbs.ca
+||youmaker.com
 ||youporn.com
 ||youtu.be
 ||youtube.com
