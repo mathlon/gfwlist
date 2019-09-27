@@ -305,6 +305,7 @@
 ||javtorrent.re
 ||javtorrent.xyz
 ||javtotal.com
+||javtube.cc
 ||jiasheng-jituan.com
 ||jiuguozhenxian.org
 ||jkforum.net 
