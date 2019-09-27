@@ -384,6 +384,7 @@
 ||pixiv.net
 ||pixnet.net
 ||pinterest.cl
+||pinterest.com
 ||pinterest.com.au
 ||pinterest.es
 ||pinterest.ie
@@ -534,7 +535,6 @@
 ||youporn.com
 ||youtu.be
 ||youtube.com
-||youtubeinmp3.com
 ||ytimg.com
 ||zaobao.com.sg
 ||zoxy.net
@@ -604,6 +604,7 @@
 @@dxycdn.com
 @@dynadot.com
 @@fang.com
+@@findyoutube.com
 @@freehao123.com
 @@freehostia.com
 @@freehosting.com
@@ -667,6 +668,7 @@
 @@netmaru.jp
 @@newasp.net
 @@npmjs.com
+@@oloadcdn.net
 @@onlinedown.net
 @@onlineocr.net
 @@noki.tk
