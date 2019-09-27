@@ -493,6 +493,7 @@
 ||yorkbbs.ca
 ||youporn.com
 ||youtu.be
+||youtube.com
 ||youtubeinmp3.com
 ||ytimg.com
 ||zoxy.net
