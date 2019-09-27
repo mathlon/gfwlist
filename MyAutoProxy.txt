@@ -100,6 +100,7 @@
 ||c4story.com
 ||c9.io
 ||ca.gov
+||caribbeancom.com
 ||caribbeancompr.com
 ||cduniverse.com
 ||cduniverse.ws
@@ -109,7 +110,7 @@
 ||chinatimes.com
 ||chinesepen.org
 ||choi-waru.com
-||cloudfront.net
+||chromium.org
 ||convyoutube.com
 ||coolloud.org.tw
 ||cosplayjav.pl
@@ -215,6 +216,7 @@
 ||google.ae
 ||google.co.jp
 ||google.com
+||google.com.hk
 ||google-analytics.com
 ||googleadservices.com
 ||googleapis.com
@@ -264,6 +266,7 @@
 ||jav.re
 ||jav007.com
 ||jav100.com
+||jav2be.com
 ||jav321.com
 ||jav4.me
 ||jav4you.net
@@ -271,12 +274,14 @@
 ||javbest.net
 ||javbooks.com
 ||javboss.me
+||javbus.com
 ||javbz.com
 ||javfinder.sh
 ||javfor.me
 ||javfree.cc
 ||javfree.me
 ||javfree.online
+||javhave.com
 ||javhd.com
 ||javhd.today
 ||javhoo.com
@@ -284,6 +289,7 @@
 ||javhuge.com
 ||javjack.com
 ||javlibrary.com
+||javmega.net
 ||javmobile.mobi
 ||javmost.com
 ||javmovie.com
@@ -298,6 +304,7 @@
 ||javtotal.com
 ||jiasheng-jituan.com
 ||jiuguozhenxian.org
+||jkforum.net 
 ||jmvbt.com
 ||jpav.me
 ||jpflmmxdflmm.com
@@ -322,6 +329,7 @@
 ||livestream.com
 ||lncn.org
 ||lqhnrsfkgcfe.com
+||ltn.com
 ||ltn.com.tw
 ||luo.bo
 ||lustex.net
@@ -379,6 +387,7 @@
 ||pinterest.com.au
 ||pinterest.es
 ||pinterest.ie
+||pinterest.se
 ||playlist.me
 ||playno1.club
 ||plum-web.com
@@ -429,6 +438,7 @@
 ||shazidoubing.com
 ||singlove.com
 ||sinoquebec.com
+||sis001.com
 ||slime.com.tw
 ||snowmyip.com
 ||sofreesky.com
@@ -452,6 +462,7 @@
 ||tiqcdn.com
 ||tokyo-tube.com
 ||tokyo-hot.com
+||tokyo-tube.com
 ||top-proxies.co.uk
 ||top10bestvpn.com
 ||tradingview.com
@@ -482,6 +493,8 @@
 ||v2ray.party
 ||veetle.com
 ||videocardbenchmark.net
+||vimeo.com
+||vimeocdn.com
 ||vpnhub.com
 ||watchjavonline.com
 ||wateroot.com
@@ -490,6 +503,7 @@
 ||wenxuecity.com
 ||wepro180.com
 ||wikia.org
+||wikidevi.com
 ||wikipedia.org
 ||windy.com
 ||wisesnacks.com
@@ -550,6 +564,7 @@
 @@aliyuncs.com
 @@amazon.com
 @@aqicn.org
+@@asus.com.cn
 @@baidu.com
 @@bcebos.com
 @@bde4.com
@@ -619,6 +634,7 @@
 @@icntv.xyz
 @@ifeng.com
 @@ifengimg.com
+@@iherb.com
 @@imgur.com
 @@investing.com
 @@iqiyi.com
@@ -647,7 +663,6 @@
 @@msn.cn
 @@mzstatic.com
 @@nba01.com
-@@nba98.com
 @@netease.com
 @@netmaru.jp
 @@newasp.net
