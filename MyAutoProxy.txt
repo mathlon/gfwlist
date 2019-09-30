@@ -682,7 +682,6 @@
 @@msj1.com
 @@msn.cn
 @@mzstatic.com
-@@nba01.com
 @@netease.com
 @@netmaru.jp
 @@newasp.net
