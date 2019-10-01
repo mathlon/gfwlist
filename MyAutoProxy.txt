@@ -39,6 +39,7 @@
 ||airav.cc
 ||akiba-online.com
 ||alluc.ee
+||amazon.co.jp
 ||america.gov
 ||amoreschina.com
 ||amung.us
@@ -424,6 +425,7 @@
 ||quantserve.com
 ||r18.com
 ||radio.garden
+||rakuten.co.jp
 ||randja.com
 ||rateyourmusic.com
 ||redtube.com
