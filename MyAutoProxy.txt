@@ -51,6 +51,7 @@
 ||apkmirror.com
 ||apkpure.com
 ||appledaily.com
+||appledaily.hk
 ||appsapk.com
 ||appspot.com
 ||archive.fo
@@ -374,6 +375,8 @@
 ||netcdn.space
 ||newscgp.com
 ||newtalk.tw
+||nextmedia.com
+||nextdigital.com.hk
 ||nicovideo.jp
 ||node-modules.com
 ||ntd.tv
