@@ -46,6 +46,7 @@
 ||amung.us
 ||android-smart.com
 ||animezilla.com
+||anvato.net
 ||aojiao.org
 ||apk.tw
 ||apkmirror.com
@@ -446,6 +447,7 @@
 ||rolfoundation.org
 ||rolsociety.org
 ||rpguraakiba.com
+||rubiconproject.com
 ||sakura.ne.jp
 ||scmp.com
 ||seattlechinaren.com
