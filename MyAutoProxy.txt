@@ -231,6 +231,7 @@
 ||google-analytics.com
 ||googleadservices.com
 ||googleapis.com
+||googlegroups.com
 ||googlesyndication.com
 ||googletagmanager.com
 ||googletagservices.com
