@@ -52,6 +52,7 @@
 ||apkmirror.com
 ||apkpure.com
 ||appledaily.com
+||appledaily.com.hk
 ||appledaily.hk
 ||appsapk.com
 ||appspot.com
