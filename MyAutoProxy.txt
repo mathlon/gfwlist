@@ -50,6 +50,7 @@
 ||apk.tw
 ||apkmirror.com
 ||apkpure.com
+||appledaily.com
 ||appsapk.com
 ||appspot.com
 ||archive.fo
