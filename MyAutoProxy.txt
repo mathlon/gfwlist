@@ -530,6 +530,7 @@
 ||vimeo.com
 ||vimeocdn.com
 ||vpnhub.com
+||washingtonpost.com
 ||watchjavonline.com
 ||wateroot.com
 ||wealth.com.tw
