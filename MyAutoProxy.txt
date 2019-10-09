@@ -392,6 +392,7 @@
 ||ntdimg.com
 ||ntdtv.com
 ||nytimes.com
+||oath.com
 ||octopuspop.com
 ||okfun.org
 ||oisinbosoft.com
