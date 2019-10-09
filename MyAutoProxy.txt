@@ -571,6 +571,7 @@
 ||xxxmax.net
 ||yahoo.com
 ||yecao.run
+||yimg.com
 ||yolasite.com
 ||yomiuri.co.jp
 ||yorkbbs.ca
