@@ -669,6 +669,7 @@
 @@githubusercontent.com
 @@gitlab.com
 @@glyptodon.com
+@@gov.cn
 @@gooooal.com
 @@adservice.google.com
 @@pagead2.googlesyndication.com
@@ -756,6 +757,8 @@
 @@sinaimg.cn
 @@sinajs.cn
 @@smzdm.com
+@@so.com
+@@sogou.com
 @@sohu.com
 @@sohucs.com
 @@soso.com
